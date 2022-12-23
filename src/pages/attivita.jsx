@@ -15,7 +15,7 @@ const projects = [
   {
     name: 'Dressage',
     description: 'Per diventare cavalieri e amazzoni dal portamento elegnate',
-    link: { href: '/foto', label: 'foto di dressage' },
+    link: { href: '/foto', label: 'foto dressage' },
     logo: logoTestaCavallo,
   },
   {
