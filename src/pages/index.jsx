@@ -125,12 +125,12 @@ export default function Home({ articles }) {
         <meta name="description" content="Centro Ippico ASD Falcone" />
       </Head>
       <Image className="w-full" src={bkgImg} />
-      <Container className="absolute top-56 left-24 mt-9 backdrop-brightness-50">
+      <Container className="absolute top-36 left-12 mt-6 backdrop-brightness-50 sm:top-56 sm:left-24 sm:mt-9">
         <div className=" max-w-2xl">
-          <h1 className="text-4xl font-bold tracking-tight text-white dark:text-zinc-100 sm:text-5xl">
+          <h1 className="text-2xl font-bold tracking-tight text-white dark:text-zinc-100 sm:text-5xl">
             Centro Ippico Falcone
           </h1>
-          <p className="mt-6 text-2xl text-white dark:text-zinc-100 sm:text-3xl">
+          <p className="mt-4 text-xl text-white dark:text-zinc-100 sm:text-3xl sm:mt-6">
             Il modo piu bello di vivere l'equitazione
           </p>
           <div className="mt-6 flex gap-6">
