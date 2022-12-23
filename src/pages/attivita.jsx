@@ -27,7 +27,7 @@ const projects = [
   {
     name: 'Ippoterapia',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
+      'Il cavallo è un fantastico amico che ci aiuta a crescere e superarci.',
     link: { href: '/foto', label: 'foto ippoterapia' },
     logo: logoTestaCavallo,
   },
