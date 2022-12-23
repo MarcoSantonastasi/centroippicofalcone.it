@@ -130,7 +130,7 @@ export default function Home({ articles }) {
           <h1 className="text-4xl font-bold tracking-tight text-white dark:text-zinc-100 sm:text-5xl">
             Centro Ippico Falcone
           </h1>
-          <p className="mt-6 text-xl text-white dark:text-zinc-100">
+          <p className="mt-6 text-2xl text-white dark:text-zinc-100">
             Il modo piu bello di vivere l'equitazione
           </p>
           <div className="mt-6 flex gap-6">
