@@ -125,7 +125,7 @@ export default function Home({ articles }) {
         <meta name="description" content="Centro Ippico ASD Falcone" />
       </Head>
       <Image className="w-full" src={bkgImg} />
-      <Container className="absolute top-36 left-12 mt-6 backdrop-brightness-50 sm:top-56 sm:left-24 sm:mt-9">
+      <Container className="absolute top-44 left-20 mt-8 backdrop-brightness-50 sm:top-56 sm:left-24 sm:mt-9">
         <div className=" max-w-2xl">
           <h1 className="text-2xl font-bold tracking-tight text-white dark:text-zinc-100 sm:text-5xl">
             Centro Ippico Falcone
